@@ -1,0 +1,14 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use "gcloud config set project [PROJECT_ID]"
+nurfatahtianggraeni@cloudshell:~$ nano latihan2.sh
+nurfatahtianggraeni@cloudshell:~$ cat latiha2.sh
+cat: latiha2.sh: No such file or directory
+nurfatahtianggraeni@cloudshell: $ cat latihan2.sh
+#!/bin/bash
+nama="nur fatahti anggraeni"
+nim=2402062
+saya_login_sebagai_siapa='ufa'
+echo "isi variabel pertama: "ufa
+echo "isi variabel kedua : "2402062
+echo "isi variabel ketiga "saya_login_sebagai_siapa=ufa
+nurfatahtianggraeni@cloudshell:~$
