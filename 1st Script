@@ -1,0 +1,13 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use "gcloud config set project [PROJECT_ID]"
+nurfatahtianggraeni@cloudshell:~$ pwd
+/home/nurfatahtianggraeni
+nurfatahtianggraeni@cloudshell:~$ nano hello.sh
+nurfatahtianggraeni@cloudshell:~$ sh hello.sh
+hello word
+nurfatahtianggraeni@cloudshell:~$ chmod +x hello.sh
+nurfatahtianggraeni@cloudshell:~$ ./hello sh
+-bash: ./hello: No such file or directory
+nurfatahtianggraeni@cloudshell:~$ ./hello.sh
+-bash: ./hello.sh: cannot execute: required file not found
+nurfatahtianggraeni@cloudshell:~$
