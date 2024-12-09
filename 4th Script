@@ -1,0 +1,14 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use gcloud config set project [PROJECT_ID]"
+nurfatahtianggraeni@cloudshell: $ nano latihan3.sh
+nurfatahtianggraeni@cloudshell:~$ cat latihan3.sh
+#!/bin/bash
+echo "script untuk menerima input"
+echo "nur fatahti anggraeni"
+read nama
+echo "===================== "
+echo "ufa"
+echo "membaca :"
+read hobi
+echo "membaca : " hobi
+nurfatahtianggraeni@cloudshell:~$
